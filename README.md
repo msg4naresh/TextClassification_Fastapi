@@ -69,11 +69,7 @@ After training the model, start the FastAPI application by running:
 uvicorn main:app --reload
 ```
 
-The FastAPI application will now be running and you can access it via `http://127.0.0.1:8000/`.
-
----
-
-That's it! You should now have a Fake News Classifier running as a FastAPI application. Feel free to contribute and raise issues if you encounter any problems.
+The FastAPI application will now be running and you can access it via `http://127.0.0.1:8000/docs`.
 
 ---
 
